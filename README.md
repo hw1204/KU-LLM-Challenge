@@ -23,3 +23,12 @@
 - **Dependencies**:
 	- Python 3.10.0
 	-  Key libraries: (e.g., `pandas`, `numpy`, etc.)
+
+## How to Run
+### 1. Data Crawling
+Run the `NAVER_cafe_crawling.py` script to start data crawling.
+
+### 2. Data Preprocessing & Chatbot Testing
+1. Open `KU_LLM_Challenges_예선.ipynb` in Google Colab.
+2. Set the runtime to CPU.
+3. Run all cells to preprocess data and test the chatbot.
