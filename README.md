@@ -11,7 +11,7 @@
 - **Personalized Feedback** 학생별 맞춤 피드백을 통해 면접 준비와 답변 능력을 향상시킵니다. 
 - **KU Prospective Students Network** 캠스터디, 멘토링, 중고 거래 등 다양한 교류 기회를 제공합니다.
 
-# Is the project PRACTICAL?
+## Is the project PRACTICAL?
 고려대학교가 제공하는 브랜드 가치는 예비 학생들에게 학업에 큰 <u>**동기 부여**</u>가 될 것입니다. 언제 어디서나 접근할 수 있으며, 개인 맞춤형 피드백과 개선을 제공합니다.
 
 ## Environment
