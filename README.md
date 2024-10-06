@@ -1,2 +1,2 @@
-# KU-LLM-Challenge
-Korea University LLM Innovators Challenge
+# Welcome to KUmorrow 
+*Tomorrow, you will be KU*
