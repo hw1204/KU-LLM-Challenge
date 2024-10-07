@@ -19,10 +19,11 @@
 - **Development Environment**:
 	- **Data Crawling**: PyCharm, Python 3.10.0
 	- **Data Preprocessing**: Google Colab (CPU)
+	- **Android Development**: Android Studio, Kotlin
 
 - **Dependencies**:
 	- Python 3.10.0
-	-  Key libraries: (e.g., `pandas`, `numpy`, etc.)
+	- Key libraries: (e.g., `pandas`, `numpy`, etc.)
 
 ## How to Run
 ### 1. Data Crawling
